@@ -204,7 +204,7 @@ export const moreThanSixPrograms = false // set to true if there are 7 or more p
 export const programLoanInfo = [ // update with program names and corresponding loan URLs with market segment code from Master Loan Parameters
     {
         name: "201",
-        url: "https://sf.privateloan.studentloan.org/external/LoanApplication.do?lenderCode=SKDV217",
+        url: "https://my.skills.fund/application?lenderCode=SKDV217",
         loanInfo: { // match loanInfo in first metro below
             maxLoanAmt: 5500,
             loanTerm36: true,
@@ -239,7 +239,7 @@ export const programLoanInfo = [ // update with program names and corresponding 
     },
     {
         name: "301",
-        url: "https://sf.privateloan.studentloan.org/external/LoanApplication.do?lenderCode=SKDV317",
+        url: "https://my.skills.fund/application?lenderCode=SKDV317",
         loanInfo: { // match loanInfo in first metro below
             maxLoanAmt: 6500,
             loanTerm36: true,
@@ -274,7 +274,7 @@ export const programLoanInfo = [ // update with program names and corresponding 
     },
     {
         name: "401",
-        url: "https://sf.privateloan.studentloan.org/external/LoanApplication.do?lenderCode=SKDV417",
+        url: "https://my.skills.fund/application?lenderCode=SKDV417",
         loanInfo: { // match loanInfo in first metro below
             maxLoanAmt: 17000,
             loanTerm36: true,
@@ -309,7 +309,7 @@ export const programLoanInfo = [ // update with program names and corresponding 
     },
     {
         name: "201 + 301",
-        url: "https://sf.privateloan.studentloan.org/external/LoanApplication.do?lenderCode=SKDV2317",
+        url: "https://my.skills.fund/application?lenderCode=SKDV2317",
         loanInfo: { // match loanInfo in first metro below
             maxLoanAmt: 12000,
             loanTerm36: true,
@@ -344,7 +344,7 @@ export const programLoanInfo = [ // update with program names and corresponding 
     },
     {
         name: "301 + 401",
-        url: "https://sf.privateloan.studentloan.org/external/LoanApplication.do?lenderCode=SKDV3417",
+        url: "https://my.skills.fund/application?lenderCode=SKDV3417",
         loanInfo: { // match loanInfo in first metro below
             maxLoanAmt: 23500,
             loanTerm36: true,
@@ -379,7 +379,7 @@ export const programLoanInfo = [ // update with program names and corresponding 
     },
     {
         name: "201 + 301 + 401",
-        url: "https://sf.privateloan.studentloan.org/external/LoanApplication.do?lenderCode=SKDV23417",
+        url: "https://my.skills.fund/application?lenderCode=SKDV23417",
         loanInfo: { // match loanInfo in first metro below
             maxLoanAmt: 29000,
             loanTerm36: true,
